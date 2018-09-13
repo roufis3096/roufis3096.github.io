@@ -1,0 +1,30 @@
+#grad1{
+    height: 200px
+    background-color: skyblue;
+    background-image: linear-gradient(to bottom right, skyblue, lightgreen);
+    background-repeat: none;
+}
+
+
+
+.topnav {
+    background-color: black;
+    font-family: "Bell Gothic Std Black";
+}
+
+.topnav a{
+    color: whitesmoke;
+    font-size: 30px;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+h1{
+    text-align: center;
+    font-family: "Bell Gothic Std Black";
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px black, 0 0 5px black;
+}
+
